@@ -8,7 +8,7 @@ import pyautogui
 # импорт селениума и сей его хуйня
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
-
+211121212
 
 # Функции
 def print_log(text, line_before=False, line_after=False):
